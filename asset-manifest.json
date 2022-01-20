@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%20%20Motivo/static/css/main.daa37559.css",
+    "main.js": "/%20%20Motivo/static/js/main.3d5ec7b9.js",
+    "static/js/787.b4c372d2.chunk.js": "/%20%20Motivo/static/js/787.b4c372d2.chunk.js",
+    "static/media/emercontact.jpg": "/%20%20Motivo/static/media/emercontact.7cd84be6470d569917d6.jpg",
+    "static/media/friend3.jpg": "/%20%20Motivo/static/media/friend3.ffc88453fd100827e84c.jpg",
+    "static/media/friend2.jpg": "/%20%20Motivo/static/media/friend2.ec13c49074cec59e3ea1.jpg",
+    "static/media/call.jpg": "/%20%20Motivo/static/media/call.b8ae8adb8e5f6acdc3a9.jpg",
+    "static/media/gaming-2_orig.jpg": "/%20%20Motivo/static/media/gaming-2_orig.9a1e989f4da1e991a775.jpg",
+    "static/media/bgimage1.jpg": "/%20%20Motivo/static/media/bgimage1.c994e5411ab1d4b809d4.jpg",
+    "static/media/motivation1.jpg": "/%20%20Motivo/static/media/motivation1.4d756fb848ffa9a084ac.jpg",
+    "static/media/settings.png": "/%20%20Motivo/static/media/settings.1011ffda47d19c640b32.png",
+    "static/media/logout.png": "/%20%20Motivo/static/media/logout.1c555d35d7feadb5a86d.png",
+    "static/media/friend3f.jpg": "/%20%20Motivo/static/media/friend3f.59c18b15902aa4a1bcda.jpg",
+    "static/media/relaximg.jfif": "/%20%20Motivo/static/media/relaximg.f7447b795ade074540ba.jfif",
+    "index.html": "/%20%20Motivo/index.html",
+    "main.daa37559.css.map": "/%20%20Motivo/static/css/main.daa37559.css.map",
+    "main.3d5ec7b9.js.map": "/%20%20Motivo/static/js/main.3d5ec7b9.js.map",
+    "787.b4c372d2.chunk.js.map": "/%20%20Motivo/static/js/787.b4c372d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa37559.css",
+    "static/js/main.3d5ec7b9.js"
+  ]
+}
